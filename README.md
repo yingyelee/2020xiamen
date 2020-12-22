@@ -11,7 +11,9 @@
 
 代码收获：
 1、使用lightgbm预测未来数据
+
 2、解读别人.py 生成xls文件到本地，然后阅读
+
 3、2年前数据按0.53,1年前数据按1增加权重
 
 其他：附开源大佬链接https://github.com/weichenlong-boy/CCF
